@@ -1,0 +1,46 @@
+body{
+    background-color: #212121;
+}
+.ct{margin-left:5%;
+margin-top: 5%;
+}
+h1{
+    color: #93f893
+}
+.form{
+   border: 2px solid #93f893;
+   display: flex;
+   flex-direction: column;
+   border-radius:10px;
+   width:90dvw ;
+   height:90dvh ;
+   justify-content: center;
+   align-items: center;
+}
+input{
+    background-color: transparent;
+    width:30dvw;
+    height:4dvh ;
+    border-radius:10px;
+    color:aliceblue;
+    border:1px #93f893 solid;
+}
+input::placeholder{
+    color: aliceblue;
+}
+textarea{
+   background-color: transparent;
+    width:30dvw ;
+    height:7dvh ;
+    border-radius:10px;
+    color:aliceblue;
+    border:1px #93f893 solid; 
+}
+button{
+    width: 10dvw;
+    height: 3dvh;
+    border-radius: 10px;
+    background-color: #93f893;
+    color: #212121;
+    font-size: 1.2rem;
+}

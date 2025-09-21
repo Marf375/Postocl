@@ -1,0 +1,31 @@
+small{
+    color:#91f891;
+    font-size: 2rem;
+    
+}
+p{
+    color:#91f891;
+    font-size: 1.3rem;
+}
+h3{
+    margin-top:10svh ;
+    color:#91f891;
+    font-size: 1.5rem;
+}
+input{
+    width: 50dvw;
+    margin-bottom: 150px;
+}
+textarea{
+    width: 50dvw;
+}
+button{
+    margin-left: 15px;
+}
+.bl{
+margin-left:20dvw ;
+}
+.com{
+    color: #91f891;
+    font-size: 1.3rem;
+}

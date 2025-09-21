@@ -1,0 +1,33 @@
+.stat{
+    width:20dvw ;
+    height:20dvh ;
+    border:1px solid #93f893 ;
+    border-radius:10px ;
+    background-color: transparent;
+    color:aliceblue;
+    font-size: 1.4rem;
+}
+.gr{
+    display: grid;
+    grid-template-columns: repeat(3, 450px);
+    justify-content: center;
+    row-gap: 10dvh;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: #93f893;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+h2{
+    margin-left: 1dvw;
+}
+small{
+ margin-left: 0.5dvw;   
+}
+p{
+  margin-left: 0.5dvw;   
+}
